@@ -1,2 +1,2 @@
-# Telemetry-Bike-Challenge-
+# Telemetry Bike (Challenge)
 Interview process challenge with Websockets.
